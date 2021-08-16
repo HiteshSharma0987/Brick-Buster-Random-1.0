@@ -4,7 +4,7 @@
 # Code by- Hitesh Sharma for Code in place
 # Stanford University ,2021
 # BRICK BUSTER RANDOM 1.0
-#
+
 
 import pygame
 import sys
