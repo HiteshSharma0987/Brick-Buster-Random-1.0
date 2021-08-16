@@ -2,7 +2,7 @@
 
 # Windows, MacOSX, and Linux Compatible
 # Code by- Hitesh Sharma for Code in place
-# Standford University ,2021
+# Stanford University ,2021
 # BRICK BUSTER RANDOM 1.0
 #
 
